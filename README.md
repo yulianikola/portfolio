@@ -3,7 +3,7 @@
 * dashboards_power_bi
 <br>Дэшборды в Power BI
 * english
-projects in english
+<br>projects in english
 * parsing_python
 <br>Парсинг на Python
 * sql
