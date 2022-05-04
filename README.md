@@ -1,10 +1,10 @@
 * data_analysis_python
-Упражнения и работа с данными на Python
+<br>Упражнения и работа с данными на Python
 * dashboards_power_bi
-Дэшборды в Power BI
+<br>Дэшборды в Power BI
 * english
-projects in english
+<br>projects in english
 * parsing_python
-Парсинг на Python
+<br>Парсинг на Python
 * sql
-Задачи с sql-ex.ru
+<br>Задачи с sql-ex.ru
